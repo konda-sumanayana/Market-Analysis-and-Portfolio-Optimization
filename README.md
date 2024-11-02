@@ -1,4 +1,4 @@
-# Easy Portfolio Optimization Dashboard
+# Market Analysis Portfolio Optimization
 
 ## Description
 
